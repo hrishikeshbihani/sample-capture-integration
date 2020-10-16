@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Capture UI</string>
+    <string name="edit_url">Enter the URL</string>
+    <string name="button_go">GO</string>
+    <string name="alert_title">Chrome Not Installed</string>
+    <string name="alert_message">We recommend you install Chrome for the best experience. Would you like to install Chrome and run the application again?</string>
+    <string name="alert_title_custom_tabs">Chrome Not Installed</string>
+    <string name="alert_message_custom_tabs">You do not have any browser that supports Custom Tabs. We recommend you install Chrome for the best experience. Please install Chrome and run the application again.</string>
+    <string name="alert_positive_button">OK</string>
+    <string name="alert_negative_button">Use Fallback Browser</string>
+    <string name="version_name">Version: %1$s</string>
+    <string name="option_select_title">Select an Option</string>
+    <string name="invalid_url_message">Please enter a valid URL</string>
+</resources>
